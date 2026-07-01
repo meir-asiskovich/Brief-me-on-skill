@@ -1,8 +1,8 @@
 # Brief-me-on-skill
-threat-intel-brief
-A Claude skill that produces comprehensive cyber threat intelligence briefings for any domain, threat actor, CVE, product, or vendor — in minutes instead of days.
+Threat-intel-brief
+This skill produces comprehensive cyber threat intelligence briefings for any domain, threat actor, CVE, product, or vendor — in minutes instead of days.
 
-Built for security analysts, SOC teams, IR leads, and threat researchers. No product roadmap, no Jira audits — pure threat intelligence.
+Built for CISO, security analysts, SOC teams, IR leads, and threat researchers. No product roadmap, no Jira audits — pure threat intelligence.
 
 
 **What it does**
